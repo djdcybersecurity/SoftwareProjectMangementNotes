@@ -45,7 +45,7 @@
 <br />
 <br />
 
-#### **EXAMPLE 1.3**
+## **EXAMPLE 1.3**
 - The tutoring app is a **temporary, one-time effort** with clear start/end dates.
 
 - Unlike day-to-day support tasks, this project is unique and has defined deliverables (mobile + web app).
@@ -58,7 +58,8 @@
 
 ---
 
-#### **1.4 Software Proejcts VS. Other Types of Projects**
+## **1.4 Software Proejcts VS. Other Types of Projects**
+
 - Software is **intangible,** making progress harder to measure than physical projects
 <br />
 - High likelihood of changing requirements due to user feedback and business needs.
@@ -70,7 +71,7 @@
 <br />
 <br />
 
-#### **EXAMPLE 1.4**
+## **EXAMPLE 1.4**
 - A construction project on campus (e.g., building a dorm) is visible and progress is obvious.
 <br />
 - In contrast, OU Software Solutions’ tutoring app is intangible — progress is code, not concrete.
@@ -93,7 +94,7 @@
 - Effective management balances business obligations with technical realities.
 <br /> 
 
-#### **EXAMPLE 1.5**
+## **EXAMPLE 1.5**
 
 - OU Software Solutions may sign a memorandum of understanding (MOU) with the tutoring center.
 
@@ -119,7 +120,7 @@
 <br />
 <br />
 
-#### **EXAMPLE 1.6**
+## **EXAMPLE 1.6**
 
 - **Planning:** Define features (login, scheduling, notifications).
 
@@ -147,7 +148,7 @@
 <br />
 
 
-#### **EXAMPLE 1.7**
+## **EXAMPLE 1.7**
 
 - **Plan:** Finish backend by week 6, UI by week 8, testing in weeks 9–10.
 
@@ -161,6 +162,7 @@
 ---
 
 ## **1.9 Steakholders**
+
 - **Stakeholders** include anyone affected by the project (users, managers, developers, clients).
 <br />
 - They have different, sometimes conflicting, interests and expectations.
@@ -171,7 +173,7 @@
 <br />
 <br />
 
-#### **EXAMPLE 1.9**
+## **EXAMPLE 1.9**
 
 - **Primary stakeholders:** OU tutoring center staff & students using the app.
 
@@ -196,7 +198,7 @@
 <br />
 <br />
 
-### ***USE **SMART** OBJECTIVES FRAMEWORK***
+## ***USE **SMART** OBJECTIVES FRAMEWORK***
 
 <br />
 <br />
@@ -218,7 +220,7 @@
 <br />
 <br />
 
-#### **EXAMPLE 1.10**
+## **EXAMPLE 1.10**
 
 **Objective:** “Deliver a secure, reliable, and user-friendly scheduling app for OU students by end of semester.”
 
@@ -250,7 +252,7 @@
 <br />
 <br />
 
-#### **EXAMPLE 1.11**
+## **EXAMPLE 1.11**
 
 - OU tutoring center struggles with manual scheduling → wasted time and missed sessions.
 
@@ -277,7 +279,7 @@
 <br />
 <br />
 
-#### **EXAMPLE 1.12**
+## **EXAMPLE 1.12**
 
 - **Success:** Students actively use the app during finals week, reducing no-shows by 30%.
 
@@ -319,6 +321,7 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 
 ---
+
 
 
 
