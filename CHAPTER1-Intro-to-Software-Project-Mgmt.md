@@ -190,12 +190,13 @@
 ## **1.10 Setting Objectives**
 
 - Objectives should be clear, realistic, and measurable.
-<br />
+  
 - Often defined in terms of cost, time, quality, and scope.
-<br />
+  
 - Good objectives align with both business strategy and user needs.
-<br />
+  
 - Helps create a shared understanding among stakeholders.
+  
 <br />
 <br />
 
@@ -322,6 +323,7 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 
 ---
+
 
 
 
