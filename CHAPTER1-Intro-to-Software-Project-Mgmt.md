@@ -244,12 +244,13 @@
 
 ## **1.11 The Business Case**
 - Justifies **why** the project should be undertaken.
-<br />
+  
 - Includes expected benefits, costs, risks, and alignment with business goals.
-<br />
+  
 - Serves as the decision-making tool for project approval.
-<br />
+  
 - Should be reviewed regularly to ensure continued relevance.
+  
 <br />
 <br />
 <br />
@@ -270,12 +271,13 @@
 ## **1.12 Project Success and Failure**
 
 - Success depends on meeting objectives for cost, time, quality, and scope.
-<br />
+  
 - Failure can result from poor planning, weak management, or unclear requirements.
-<br />
+  
 - Even "successful" projects may fail if they don’t deliver business value.
-<br />
-- Ongoing evaluation is needed to define success beyond just delivery.
+  
+- Ongoing evaluation is needed to define success beyond just delivery.\
+  
 <br />
 <br />
 <br />
@@ -298,12 +300,13 @@
 ## **Managment Control**
 
 - Provides mechanisms to ensure the project stays on track.
-<br />
+  
 - Includes setting baselines, monitoring performance, and correcting deviations.
-<br />
+  
 - Control systems should balance flexibility with discipline.
-<br />
+  
 - Essential for handling uncertainty and complexity in software projects.
+  
 <br />
 <br />
 
@@ -323,6 +326,7 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 
 ---
+
 
 
 
