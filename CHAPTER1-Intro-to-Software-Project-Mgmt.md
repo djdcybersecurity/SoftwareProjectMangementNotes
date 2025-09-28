@@ -136,11 +136,11 @@
 ## **1.7 PLans, Methods and Methodologies**
 
 - **Plans** outline what will be done, when, and by whom.
-<br />
+
 - **Methods** are the techniques/tools used to complete tasks (e.g., Gantt charts, UML).
-<br />
+
 - **Methodologies** provide **structured frameworks** (e.g., Waterfall, Agile, PRINCE2).
-<br />
+
 - Consistency in methods/methodologies helps manage complexity and communication.
 <br />
 <br />
@@ -321,6 +321,7 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 
 ---
+
 
 
 
