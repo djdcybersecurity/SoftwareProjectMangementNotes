@@ -1,6 +1,6 @@
 # **CHAPTER 1: Introduction to Software Project Management**
 
-______
+---
 
 
 ## **1.2 Why is software project management important?**
@@ -14,7 +14,9 @@ ______
 - Ensures alignment between business goeals and technical outcomes.
 <br />
 <br />
+
 ## **EXAMPLE 1.2**
+
 - OU Software Solutions might take on a project to build a **student tutoring scheduling app.**
 
 - Without project management, deadlines slip, budgets overshoot, and features may not align with student needs.
@@ -25,7 +27,8 @@ ______
 <br />
 <br />
 
-____
+---
+
 ## **1.3 What is a Project**
 - A project is a temporary endeavor with a defined start and end, aimed at achieving specific objectives.
 <br />
@@ -53,7 +56,8 @@ ____
 <br />
 <br />
 
-______
+---
+
 #### **1.4 Software Proejcts VS. Other Types of Projects**
 - Software is **intangible,** making progress harder to measure than physical projects
 <br />
@@ -76,8 +80,10 @@ ______
 <br />
 <br />
 
-____
+---
+
 ## **1.5 Contract Management and Technical project management**
+
 - Contract management governs the legal and commercial side of projects
 <br />
 - Technical project manaement focusses on **planning,** **execution,** **and control** of software development.
@@ -88,6 +94,7 @@ ____
 <br /> 
 
 #### **EXAMPLE 1.5**
+
 - OU Software Solutions may sign a memorandum of understanding (MOU) with the tutoring center.
 
 - Contract management ensures clear deliverables (web app, mobile app, 3 months of support).
@@ -96,8 +103,11 @@ ____
 <br />
 <br />
 
-____
+---
+
 ## **1.6 Activities covered by software project management**
+
+
 - **PLANNING** - Defining objectives, scope, schedules, and resources.
 <br />
 - **MONITORING & CONTROL** - Tracking progress, managing risks, and adjusting plans
@@ -110,6 +120,7 @@ ____
 <br />
 
 #### **EXAMPLE 1.6**
+
 - **Planning:** Define features (login, scheduling, notifications).
 
 - **Monitoring:** Weekly team stand-ups to check progress.
@@ -119,8 +130,11 @@ ____
 - **Delivery & closure:** Hand over the app at semester end, with documentation.
 <br />
 <br />
-____
+
+---
+
 ## **1.7 PLans, Methods and Methodologies**
+
 - **Plans** outline what will be done, when, and by whom.
 <br />
 - **Methods** are the techniques/tools used to complete tasks (e.g., Gantt charts, UML).
@@ -131,6 +145,8 @@ ____
 <br />
 <br />
 <br />
+
+
 #### **EXAMPLE 1.7**
 
 - **Plan:** Finish backend by week 6, UI by week 8, testing in weeks 9–10.
@@ -142,7 +158,8 @@ ____
 <br />
 <br />
 
-____
+---
+
 ## **1.9 Steakholders**
 - **Stakeholders** include anyone affected by the project (users, managers, developers, clients).
 <br />
@@ -153,7 +170,9 @@ ____
 - Communication and engagement reduce misunderstandings and resistance.
 <br />
 <br />
+
 #### **EXAMPLE 1.9**
+
 - **Primary stakeholders:** OU tutoring center staff & students using the app.
 
 - **Secondary stakeholders:** IT department (for hosting), OU Software Solutions team members.
@@ -162,8 +181,11 @@ ____
 <br />
 <br />
 
-____
+
+---
+
 ## **1.10 Setting Objectives**
+
 - Objectives should be clear, realistic, and measurable.
 <br />
 - Often defined in terms of cost, time, quality, and scope.
@@ -173,7 +195,9 @@ ____
 - Helps create a shared understanding among stakeholders.
 <br />
 <br />
-    ### ***USE **SMART** OBJECTIVES FRAMEWORK***
+
+### ***USE **SMART** OBJECTIVES FRAMEWORK***
+
 <br />
 <br />
 
@@ -195,6 +219,7 @@ ____
 <br />
 
 #### **EXAMPLE 1.10**
+
 **Objective:** “Deliver a secure, reliable, and user-friendly scheduling app for OU students by end of semester.”
 
 **SMART objectives example for this project:**
@@ -211,7 +236,8 @@ ____
 <br />
 <br />
 
-____
+---
+
 ## **1.11 The Business Case**
 - Justifies **why** the project should be undertaken.
 <br />
@@ -223,7 +249,9 @@ ____
 <br />
 <br />
 <br />
+
 #### **EXAMPLE 1.11**
+
 - OU tutoring center struggles with manual scheduling → wasted time and missed sessions.
 
 - The app will increase efficiency, improve student access to tutoring, and reduce admin costs.
@@ -233,8 +261,10 @@ ____
 <br />
 <br />
 
-____
+---
+
 ## **1.12 Project Success and Failure**
+
 - Success depends on meeting objectives for cost, time, quality, and scope.
 <br />
 - Failure can result from poor planning, weak management, or unclear requirements.
@@ -246,7 +276,9 @@ ____
 <br />
 <br />
 <br />
+
 #### **EXAMPLE 1.12**
+
 - **Success:** Students actively use the app during finals week, reducing no-shows by 30%.
 
 - **Failure:** Delivering late or with poor usability, leading to low adoption.
@@ -254,8 +286,13 @@ ____
 - Even if delivered “on time,” failure could occur if students don’t use it.
 <br />
 <br />
-____
+
+
+---
+
+
 ## **Managment Control**
+
 - Provides mechanisms to ensure the project stays on track.
 <br />
 - Includes setting baselines, monitoring performance, and correcting deviations.
@@ -266,8 +303,10 @@ ____
 <br />
 <br />
 
-____
+---
+
 ## **Conclusion**
+
 Software project management is vital for delivering value from complex, high-risk software projects.
 
 Requires a blend of technical expertise, business awareness, and people management.
@@ -279,7 +318,8 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 <br />
 
-______
+---
+
 
 
 
