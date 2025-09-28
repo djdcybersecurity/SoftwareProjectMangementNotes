@@ -6,12 +6,13 @@
 ## **1.2 Why is software project management important?**
 
 - Software projects are often complex, costly, and time-consuming, requiring structured management to succeed.
-<br />
+  
 - Good project management helps control costs, time, quality, and scope.
-<br />
+  
 - It reduces risks of failure, such as missed deadlines or budget overruns.
-<br />
+  
 - Ensures alignment between business goeals and technical outcomes.
+  
 <br />
 <br />
 
@@ -31,13 +32,10 @@
 
 ## **1.3 What is a Project**
 - A project is a temporary endeavor with a defined start and end, aimed at achieving specific objectives.
-<br />
 
 - Distinct from routine operations because it is **unique and goal-oriented.**
-<br />
 
 - Involves a set of activities that consume resources **(time, money, people)**
-<br />
 
 - Success is measured against scope, time, cost and quality constraints 
 
@@ -61,11 +59,11 @@
 ## **1.4 Software Proejcts VS. Other Types of Projects**
 
 - Software is **intangible,** making progress harder to measure than physical projects
-<br />
+  
 - High likelihood of changing requirements due to user feedback and business needs.
-<br />
+  
 - More emphasis on creativity, problem-solving, and intellectual effort than physical labor.
-<br />
+  
 - Greater risk scope creep compared to construction or engineering projects.
 
 <br />
@@ -73,9 +71,9 @@
 
 ## **EXAMPLE 1.4**
 - A construction project on campus (e.g., building a dorm) is visible and progress is obvious.
-<br />
+  
 - In contrast, OU Software Solutions’ tutoring app is intangible — progress is code, not concrete.
-<br />
+  
 - The app may face frequent requirement changes (e.g., students want calendar sync, then notifications
 
 <br />
@@ -86,13 +84,13 @@
 ## **1.5 Contract Management and Technical project management**
 
 - Contract management governs the legal and commercial side of projects
-<br />
+  
 - Technical project manaement focusses on **planning,** **execution,** **and control** of software development.
-<br />
+  
 - Both are independent - contracts define deliverables, while project management ensures delivery.
-<br />
+  
 - Effective management balances business obligations with technical realities.
-<br /> 
+
 
 ## **EXAMPLE 1.5**
 
@@ -326,6 +324,7 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 
 ---
+
 
 
 
