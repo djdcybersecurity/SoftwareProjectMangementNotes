@@ -163,12 +163,13 @@
 ## **1.9 Steakholders**
 
 - **Stakeholders** include anyone affected by the project (users, managers, developers, clients).
-<br />
+  
 - They have different, sometimes conflicting, interests and expectations.
-<br />
+  
 - Effective stakeholder management is crucial for project acceptance and success.
-<br />
+  
 - Communication and engagement reduce misunderstandings and resistance.
+  
 <br />
 <br />
 
@@ -321,6 +322,7 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 
 ---
+
 
 
 
