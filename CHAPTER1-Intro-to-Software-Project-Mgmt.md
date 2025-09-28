@@ -180,6 +180,7 @@
 - **Secondary stakeholders:** IT department (for hosting), OU Software Solutions team members.
 
 - **Conflict example:** Tutors want simplicity, but IT may require extra security features.
+
 <br />
 <br />
 
@@ -321,6 +322,7 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 
 ---
+
 
 
 
