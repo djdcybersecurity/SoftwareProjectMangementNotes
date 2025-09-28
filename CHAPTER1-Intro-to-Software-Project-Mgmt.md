@@ -109,13 +109,13 @@
 ## **1.6 Activities covered by software project management**
 
 
-- **PLANNING** - Defining objectives, scope, schedules, and resources.
+- **PLANNING:** Defining objectives, scope, schedules, and resources.
 <br />
-- **MONITORING & CONTROL** - Tracking progress, managing risks, and adjusting plans
+- **MONITORING & CONTROL:** Tracking progress, managing risks, and adjusting plans
 <br />
-- **TEAM MANAGEMENT** - Assigning roles, responsibilities, and coordinating collaboration.
+- **TEAM MANAGEMENT:** Assigning roles, responsibilities, and coordinating collaboration.
 <br />
-- **DELIVERY & CLOSURE** - Ensuring acceptance of the final product and documenting lessons learned.
+- **DELIVERY & CLOSURE:** Ensuring acceptance of the final product and documenting lessons learned.
 
 <br />
 <br />
@@ -322,6 +322,7 @@ The discipline underpins effective software delivery in today’s competitive en
 <br />
 
 ---
+
 
 
 
