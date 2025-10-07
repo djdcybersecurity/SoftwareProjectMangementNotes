@@ -146,7 +146,7 @@
     - Bottom- Up ensures accuracy by considering individual tasks
     - Compare with top-down estimates for consistency
 
-- make sure that you estimate effort based on expertise levels accross the team
+- make sure that you estimate effort based on expertise levels accross the team. This might include stakeholders too. Not just development team.
 
 - keep your team on board when discussing efforts to have realistic time estimations. This is based on realistic time measures.
 
