@@ -148,6 +148,8 @@
 
 - make sure that you estimate effort based on expertise levels accross the team
 
+- keep your team on board when discussing efforts to have realistic time estimations. This is based on realistic time measures.
+
 
 
 
