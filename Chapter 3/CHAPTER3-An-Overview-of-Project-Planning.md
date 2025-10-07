@@ -151,6 +151,20 @@
 - keep your team on board when discussing efforts to have realistic time estimations. This is based on realistic time measures.
 
 
+### 5.2 Revise PLan to Create Activities Purpose:
+Purpose
+- Ensure activities are manageable and measureable 
+- Break down large/ uncertain tasks into smaller subtasks.
+- Group very small tasks into bundled activities
+- Support better monitoring and progress tracking
+
+Keypoints 
+- long tasks = hard to control --> break into subtasks
+- Tiny tasks = overhead --> merge into bundles
+- Target duration: activities should fit within reporting cyles
+- Result: controllable, trackable, and monitorable activitiescle
+
+
 
 
 
