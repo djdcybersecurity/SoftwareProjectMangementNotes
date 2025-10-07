@@ -134,6 +134,23 @@
 
 - Provides input for scheduling and resource allocation.
 
+### 5.1 Carry Out Bottom-Up Estimates
+- Purpose: 
+    - Estimate Staff effort, cost, and time for each activity
+    - Work out elapsed time vs effort
+    - Aggregate estimates for total for total project duration
+
+- Key Points:
+    - Effort = amount of work
+    - Elapsed time = calendar time taken 
+    - Bottom- Up ensures accuracy by considering individual tasks
+    - Compare with top-down estimates for consistency
+
+- make sure that you estimate effort based on expertise levels accross the team
+
+
+
+
 
 <br />
 <br />
