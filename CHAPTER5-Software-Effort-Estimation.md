@@ -6,7 +6,7 @@
 - Software is complex and  intangible
 - Requirements evolve and invisible dependencies often emerge.
 
-## 2. subjectivity in estimitation 
+## 2. Subjectivity in estimitation 
 
 - Estimation often dpends on individual judgement and past experience
 - This leads to overestimating small tasks and underesting large ones.
