@@ -17,9 +17,16 @@
 - Different stakeholders may have conflicting goals - for  instance, management may push for lower cost estimates just  to get a  project approved. 
 
 
+# Make your processes and decision making as OBJECTIVE AS POSSIBLE
+
+
+---
+
+
+
 
 <br />
 
----
+
 
 
