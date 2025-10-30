@@ -3,8 +3,8 @@
 
 ## 1. Nature of Software 
 
-- software is complex and  intangible
-- requirements evolve and invisible dependencies often emerge.
+- Software is complex and  intangible
+- Requirements evolve and invisible dependencies often emerge.
 
 ## 2. subjectivity in estimitation 
 
@@ -19,4 +19,7 @@
 
 
 <br />
+
+---
+
 
